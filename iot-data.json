@@ -1,0 +1,289 @@
+[
+  {
+    "ip": "79.125.71.86",
+    "ports": [443],
+    "os": null,
+    "productName": "",
+    "vendorName": "Amazon.com, Inc."
+  },
+  {
+    "ip": "212.140.128.124",
+    "ports": [161, 515, 137, 80, 631, 445],
+    "os": null,
+    "productName": "",
+    "vendorName": "British Telecommunications PLC"
+  },
+  {
+    "ip": "8.210.74.67",
+    "ports": [22],
+    "os": null,
+    "productName": "OpenSSH",
+    "vendorName": "Alibaba (US) Technology Co., Ltd."
+  },
+  {
+    "ip": "154.61.77.24",
+    "ports": [
+      5985, 8080, 9003, 135, 9001, 9002, 3307, 3389, 80, 54321, 21, 445, 53
+    ],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Cogent Communications"
+  },
+  {
+    "ip": "195.69.208.123",
+    "ports": [80, 443],
+    "os": null,
+    "productName": "",
+    "vendorName": "Comarch S.A."
+  },
+  {
+    "ip": "137.201.240.86",
+    "ports": [8080, 9443, 6443, 80, 8443, 443],
+    "os": null,
+    "productName": "",
+    "vendorName": "Micron Technology"
+  },
+  {
+    "ip": "63.33.153.150",
+    "ports": [443],
+    "os": null,
+    "productName": "",
+    "vendorName": "Amazon.com, Inc."
+  },
+  {
+    "ip": "147.230.21.70",
+    "ports": [5432, 8880, 8881],
+    "os": null,
+    "productName": "PostgreSQL",
+    "vendorName": "CESNET z.s.p.o."
+  },
+  {
+    "ip": "2600:9000:2004:a800:19:6cc8:d1c0:d8db",
+    "ports": [80, 443],
+    "os": null,
+    "productName": "CloudFront httpd",
+    "vendorName": "Amazon.com, Inc."
+  },
+  {
+    "ip": "103.130.212.186",
+    "ports": [
+      993, 995, 54321, 5985, 135, 3306, 139, 5357, 110, 80, 465, 21, 8880, 1433,
+      1434, 443, 445, 53
+    ],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Vietnam Online Network Solution Joint Stock Compnay"
+  },
+  {
+    "ip": "60.162.182.86",
+    "ports": [54321],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "CHINANET-BACKBONE"
+  },
+  {
+    "ip": "103.137.165.25",
+    "ports": [
+      993, 995, 54321, 3306, 587, 8443, 110, 143, 80, 465, 21, 1433, 25, 443,
+      636, 53
+    ],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "IceWarp Technologies Pvt. Ltd."
+  },
+  {
+    "ip": "130.61.48.171",
+    "ports": [1883, 8086, 22],
+    "os": null,
+    "productName": "InfluxDB",
+    "vendorName": "Oracle Corporation"
+  },
+  {
+    "ip": "2.136.33.182",
+    "ports": [8080, 8001, 2222, 22, 8007],
+    "os": null,
+    "productName": "nginx",
+    "vendorName": "TELEFONICA DE ESPANA S.A.U."
+  },
+  {
+    "ip": "121.17.28.196",
+    "ports": [5985, 54321, 8001, 137, 3306, 9200, 9201, 1433, 3388, 3389],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "CHINA UNICOM China169 Backbone"
+  },
+  {
+    "ip": "110.40.155.129",
+    "ports": [5000, 5001, 80, 22, 3128, 443],
+    "os": null,
+    "productName": "Squid http proxy",
+    "vendorName": "Shenzhen Tencent Computer Systems Company Limited"
+  },
+  {
+    "ip": "216.244.85.194",
+    "ports": [
+      5985, 54321, 135, 137, 3306, 139, 110, 3389, 80, 8880, 21, 1433, 1434,
+      8443, 445, 53
+    ],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Wowrack.com"
+  },
+  {
+    "ip": "123.194.84.39",
+    "ports": [54321],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "kbro CO. Ltd."
+  },
+  {
+    "ip": "84.201.160.123",
+    "ports": [
+      9999, 7777, 8080, 443, 2404, 5672, 8239, 9091, 8237, 111, 80, 4369, 5683,
+      21, 22, 25672, 9092, 1883, 8252, 9090, 7071
+    ],
+    "os": null,
+    "productName": "RabbitMQ",
+    "vendorName": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "97.74.232.23",
+    "ports": [8880, 135, 3306, 110, 143, 80, 54321, 21, 1433, 443, 3389, 53],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "GoDaddy.com, LLC"
+  },
+  {
+    "ip": "63.42.200.103",
+    "ports": [161, 9191],
+    "os": null,
+    "productName": "net-snmp",
+    "vendorName": "Verizon Business"
+  },
+  {
+    "ip": "117.174.207.72",
+    "ports": [
+      1024, 3072, 2562, 515, 8022, 3103, 2057, 6666, 87, 2060, 2061, 3086, 3088,
+      2065, 1554, 2051, 5609, 23, 3097, 2223, 3100, 6002, 2079, 3062, 3106,
+      2083, 548, 2086, 2087, 3112, 3070, 2095, 3120, 6664, 7218, 1588, 2569,
+      3128, 4157, 6668, 1599, 2626, 5560, 1604, 7777, 2121, 587, 81, 82, 8035,
+      1111, 89, 90, 92, 8050, 97, 7779, 102, 104, 3689, 3690, 111, 113, 1650,
+      2067, 6262, 119, 7444, 8051, 636, 8017, 1153, 131, 2181, 646, 4545, 143,
+      4242, 4243, 5269, 8024, 2200, 1177, 666, 6000, 675, 6667, 685, 4782, 175,
+      1200, 2225, 4786, 179, 6633, 8036, 4282, 1723, 8014, 3403, 195, 3268,
+      3270, 199, 4808, 2761, 2762, 6007, 3790, 7887, 8027, 3793, 1234, 5070,
+      2266, 5853, 222, 4321, 5122, 3299, 3301, 465, 4840, 8060, 3306, 3111,
+      5357, 3310, 4848, 3554, 7537, 8021, 5673, 5007, 8069, 771, 263, 264, 1801,
+      1290, 5900, 5901, 2320, 5592, 2323, 5908, 5209, 5400, 2379, 3119, 2332,
+      1311, 5201, 5597, 805, 1830, 4664, 808, 2345, 4443, 6443, 7474, 4911,
+      2352, 5938, 5598, 5432, 2100, 1925, 3388, 7998, 7989, 8000, 8003, 8004,
+      2376, 8009, 8010, 1355, 8012, 2018, 4430, 8015, 7433, 3409, 5569, 3555,
+      4949, 7443, 7657, 7000, 1883, 5172, 3557, 5985, 5986, 7415, 2404, 5672,
+      8042, 3559, 1388, 8047, 880, 5608, 3954, 2563, 6005, 8054, 1911, 6008,
+      6036, 7547, 7548, 8064, 6379, 3460, 389, 1926, 8071, 8072, 5002, 8043,
+      5005, 5006, 1935, 7634, 5010, 4500, 6550, 2455, 6543, 4506, 1947, 7071,
+      6748, 4001, 6697, 1962, 8008, 7090, 5555, 3567, 6581, 4022, 3000, 3001,
+      3002, 444, 1981, 1471, 6080, 449, 450, 1099, 3524, 2550, 5025, 8028, 3063,
+      3084, 2000, 2001, 2002, 2211, 3541, 3542, 4567, 2008, 5593, 5594, 3549,
+      3550, 3551, 993, 994, 995, 8055, 2021, 999, 1000, 3049, 3050, 1515, 3052,
+      7999, 3055, 1521, 3570, 3060, 3061, 502, 503, 2556, 6653, 1022, 1023
+    ],
+    "os": null,
+    "productName": "",
+    "vendorName": "China Mobile Communications Group Co., Ltd."
+  },
+  {
+    "ip": "79.137.39.46",
+    "ports": [80, 123, 443, 22],
+    "os": null,
+    "productName": "Apache httpd",
+    "vendorName": "OVH SAS"
+  },
+  {
+    "ip": "2600:9000:201a:600:1f:d8b2:c1c0:5a2a",
+    "ports": [80, 443],
+    "os": null,
+    "productName": "CloudFront httpd",
+    "vendorName": "Amazon.com, Inc."
+  },
+  {
+    "ip": "50.231.131.75",
+    "ports": [
+      5985, 3269, 443, 3268, 389, 135, 54321, 3389, 80, 593, 21, 22, 88, 123,
+      636, 445, 53
+    ],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Comcast Cable Communications, LLC"
+  },
+  {
+    "ip": "12.9.136.81",
+    "ports": [80],
+    "os": null,
+    "productName": "BigIP",
+    "vendorName": "Avnet Inc."
+  },
+  {
+    "ip": "112.161.188.113",
+    "ports": [54321],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Korea Telecom"
+  },
+  {
+    "ip": "220.135.33.175",
+    "ports": [137, 161],
+    "os": null,
+    "productName": "",
+    "vendorName": "Data Communication Business Group"
+  },
+  {
+    "ip": "121.158.55.234",
+    "ports": [80, 161, 515, 9100, 631],
+    "os": null,
+    "productName": "",
+    "vendorName": "Korea Telecom"
+  },
+  {
+    "ip": "54.175.67.173",
+    "ports": [8083],
+    "os": null,
+    "productName": "",
+    "vendorName": "Amazon.com, Inc."
+  },
+  {
+    "ip": "13.234.68.119",
+    "ports": [80, 443],
+    "os": null,
+    "productName": "",
+    "vendorName": "Amazon.com, Inc."
+  },
+  {
+    "ip": "51.104.53.121",
+    "ports": [8000, 443, 3389],
+    "os": null,
+    "productName": "Remote Desktop Protocol",
+    "vendorName": "Microsoft Corporation"
+  },
+  {
+    "ip": "31.130.181.67",
+    "ports": [80, 54321, 554],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Atrin Information & Communications Technology Company PJS"
+  },
+  {
+    "ip": "59.126.233.245",
+    "ports": [54321],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Data Communication Business Group"
+  },
+  {
+    "ip": "95.159.106.105",
+    "ports": [54321, 443, 53, 22],
+    "os": null,
+    "productName": "Xiaomi IoT",
+    "vendorName": "Seven Net Layers for General Trading & Information Technology LTD."
+  }
+]
