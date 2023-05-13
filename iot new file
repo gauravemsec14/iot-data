@@ -170,5 +170,3176 @@
     "productName": "Xiaomi IoT",
     "vendorName": "Green Web Samaneh Novin Co Ltd",
     "deviceName": ["iot"]
-  }
+  },
+  {
+        "ip": "18.219.65.94",
+        "openTcpPorts": [
+            80
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Technologies Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "81.70.216.180",
+        "openTcpPorts": [
+            53,
+            88,
+            135,
+            139,
+            5001,
+            5601,
+            5985
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Tencent Cloud Computing (Beijing) Co., Ltd",
+        "deviceName": [
+            "iot",
+            "cloud"
+        ]
+    },
+    {
+        "ip": "3.248.44.66",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "AWS ELB",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "23.97.50.15",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            8500
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Consul",
+        "vendorName": "Microsoft Corporation",
+        "deviceName": [
+            "devops",
+            "cloud"
+        ]
+    },
+    {
+        "ip": "92.205.21.82",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "DCN Sub Alloc",
+        "deviceName": ""
+    },
+    {
+        "ip": "103.109.192.139",
+        "openTcpPorts": [
+            53,
+            2000
+        ],
+        "openUdpPorts": [
+            53,
+            161
+        ],
+        "os": null,
+        "productName": "MikroTik bandwidth-test server",
+        "vendorName": "PT. Cyberindo Aditama",
+        "deviceName": ""
+    },
+    {
+        "ip": "188.143.203.95",
+        "openTcpPorts": [
+            53,
+            80
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Petersburg Internet Network ltd.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "51.91.147.52",
+        "openTcpPorts": [
+            25,
+            80,
+            443,
+            10250
+        ],
+        "openUdpPorts": [
+            123
+        ],
+        "os": null,
+        "productName": "Kubernetes",
+        "vendorName": "OVH SAS",
+        "deviceName": [
+            "devops"
+        ]
+    },
+    {
+        "ip": "178.44.155.35",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "PJSC Rostelecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "80.69.154.47",
+        "openTcpPorts": [
+            23,
+            53,
+            80,
+            8080,
+            8081,
+            8083,
+            8086
+        ],
+        "openUdpPorts": [
+            53,
+            1701
+        ],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "T2 Mobile LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "113.225.162.194",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "China Unicom Liaoning province network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "206.180.71.112",
+        "openTcpPorts": [
+            80
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Midwestern Intermediate Unit IV",
+        "deviceName": ""
+    },
+    {
+        "ip": "74.81.93.234",
+        "openTcpPorts": [
+            21,
+            53,
+            80,
+            443,
+            9001
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "NETWORK TRANSIT HOLDINGS LLC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "88.114.141.62",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Elisa Oyj",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "95.153.236.146",
+        "openTcpPorts": [
+            53,
+            80,
+            2000,
+            8291,
+            8888
+        ],
+        "openUdpPorts": [
+            53,
+            1701
+        ],
+        "os": null,
+        "productName": "MikroTik Winbox",
+        "vendorName": "Kuban-GSM Local Registry",
+        "deviceName": ""
+    },
+    {
+        "ip": "167.127.134.67",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "BigIP",
+        "vendorName": "Allstate Insurance Company",
+        "deviceName": ""
+    },
+    {
+        "ip": "150.136.127.8",
+        "openTcpPorts": [
+            22
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "OpenSSH",
+        "vendorName": "Oracle Public Cloud",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "178.251.95.76",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "levigo systems gmbh",
+        "deviceName": ""
+    },
+    {
+        "ip": "85.214.218.152",
+        "openTcpPorts": [
+            21,
+            53,
+            110,
+            135,
+            443,
+            445,
+            993,
+            995,
+            3306,
+            3389,
+            5985,
+            8081,
+            8083,
+            8443,
+            8880,
+            9090
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Strato Rechenzentrum, Berlin",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "104.248.24.113",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": "Linux",
+        "productName": "nginx",
+        "vendorName": "DigitalOcean, LLC",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "141.61.128.33",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Max-Planck-Intitut fuer Biochemie",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "173.249.28.22",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            8080,
+            8083
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Contabo GmbH",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "93.105.242.16",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "VECTRA S.A.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "211.62.83.40",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            631,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "DISPLAY=",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "50.173.157.76",
+        "openTcpPorts": [
+            22,
+            111,
+            9002
+        ],
+        "openUdpPorts": [
+            7,
+            19,
+            69,
+            80,
+            88,
+            129,
+            137,
+            500,
+            3283,
+            3391,
+            3784,
+            4500,
+            5353,
+            30303,
+            32100,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "198.55.230.68",
+        "openTcpPorts": [
+            80,
+            443,
+            8080,
+            8081,
+            8082,
+            8083,
+            8086
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "ABC Allen Business Communications Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "18.206.50.201",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Technologies Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "52.69.210.135",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Data Services Japan",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "120.24.251.161",
+        "openTcpPorts": [
+            22,
+            80,
+            2181,
+            8888,
+            9092,
+            9100
+        ],
+        "openUdpPorts": [],
+        "os": "Linux 4.15.0-52-generic",
+        "productName": "Prometheus Node Exporter",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "eol-os"
+        ]
+    },
+    {
+        "ip": "223.62.60.233",
+        "openTcpPorts": [
+            80,
+            1723,
+            8083,
+            8086,
+            8087
+        ],
+        "openUdpPorts": [
+            500
+        ],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Telecom",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "43.207.84.35",
+        "openTcpPorts": [
+            80,
+            443,
+            1883
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MQTT",
+        "vendorName": "Amazon.com, Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "3.98.152.163",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Squid http proxy",
+        "vendorName": "Amazon Data Services Canada",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "200.93.194.50",
+        "openTcpPorts": [
+            80,
+            110,
+            143,
+            443,
+            587,
+            3000,
+            3005,
+            5432,
+            5985,
+            9090
+        ],
+        "openUdpPorts": [
+            88,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Telconet S.A",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "140.127.208.6",
+        "openTcpPorts": [
+            80,
+            515,
+            631,
+            2000,
+            8008
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Ministry of Education Computer Center",
+        "deviceName": ""
+    },
+    {
+        "ip": "117.241.57.239",
+        "openTcpPorts": [
+            49152
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "220.203.1.0",
+        "openTcpPorts": [
+            22,
+            1883,
+            5443,
+            5900,
+            8443,
+            9000,
+            9042,
+            9100
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "China Unicom",
+        "deviceName": ""
+    },
+    {
+        "ip": "222.129.196.66",
+        "openTcpPorts": [
+            5005,
+            10001
+        ],
+        "openUdpPorts": [
+            1900,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "China Unicom Beijing province network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "81.230.133.247",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Telia Company AB",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "14.18.154.242",
+        "openTcpPorts": [
+            21,
+            515,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "FUJI XEROX DocuPrint C1110",
+        "vendorName": "CHINANET Guangdong province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "115.206.114.250",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET-ZJ Hangzhou node network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "62.248.255.91",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Elisa Oyj",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "125.47.77.233",
+        "openTcpPorts": [
+            21,
+            8081
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "China Unicom Henan province network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "47.120.0.38",
+        "openTcpPorts": [
+            22,
+            1883,
+            3306,
+            8083,
+            8086
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "InfluxDB",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "76.76.86.210",
+        "openTcpPorts": [
+            80,
+            135,
+            389,
+            593,
+            3268
+        ],
+        "openUdpPorts": [
+            53,
+            88,
+            123,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "JAB Wireless, INC.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "50.168.72.119",
+        "openTcpPorts": [
+            22,
+            9002
+        ],
+        "openUdpPorts": [
+            7,
+            19,
+            69,
+            88,
+            129,
+            137,
+            500,
+            3283,
+            3391,
+            3784,
+            4500,
+            5353,
+            6969,
+            30311,
+            32100,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "109.92.180.250",
+        "openTcpPorts": [
+            13,
+            15,
+            21,
+            25,
+            26,
+            37,
+            43,
+            70,
+            80,
+            82,
+            83,
+            95,
+            104,
+            179,
+            199,
+            263,
+            264,
+            450,
+            522,
+            554,
+            587,
+            593,
+            631,
+            636,
+            685,
+            1022,
+            1025,
+            1063,
+            1099,
+            1234,
+            1290,
+            1337,
+            1433,
+            1723,
+            1741,
+            1926,
+            2008,
+            2048,
+            2068,
+            2077,
+            2081,
+            2154,
+            2200,
+            2221,
+            2225,
+            2266,
+            2560,
+            2626,
+            2985,
+            3001,
+            3002,
+            3048,
+            3050,
+            3054,
+            3068,
+            3074,
+            3078,
+            3091,
+            3108,
+            3128,
+            3221,
+            3306,
+            3310,
+            3388,
+            3389,
+            3406,
+            3408,
+            3522,
+            3541,
+            3552,
+            3557,
+            3558,
+            3559,
+            3567,
+            3570,
+            3780,
+            3950,
+            4022,
+            4064,
+            4433,
+            4444,
+            4500,
+            4840,
+            5001,
+            5002,
+            5006,
+            5007,
+            5009,
+            5025,
+            5446,
+            5454,
+            5590,
+            5592,
+            5593,
+            5604,
+            5609,
+            5801,
+            5907,
+            5910,
+            5938,
+            5986,
+            6006,
+            6009,
+            6080,
+            6379,
+            6543,
+            6581,
+            6600,
+            6602,
+            6622,
+            6650,
+            6664,
+            7003,
+            7401,
+            7474,
+            7657,
+            7776,
+            8005,
+            8007,
+            8008,
+            8009,
+            8017,
+            8021,
+            8042,
+            8056,
+            8057,
+            8064,
+            8069,
+            8072,
+            8080,
+            8086,
+            8092,
+            8094,
+            8097,
+            8099,
+            8103,
+            8143,
+            8222,
+            8241,
+            8249,
+            8334,
+            8403,
+            8404,
+            8408,
+            8411,
+            8413,
+            8423,
+            8446,
+            8575,
+            8585,
+            8686,
+            8688,
+            8728,
+            8766,
+            8802,
+            8804,
+            8806,
+            8812,
+            8835,
+            8840,
+            8842,
+            8845,
+            8848,
+            8863,
+            8866,
+            8873,
+            8877,
+            8878,
+            8888,
+            8935,
+            9000,
+            9001,
+            9009,
+            9012,
+            9016,
+            9030,
+            9088,
+            9091,
+            9093,
+            9099,
+            9100,
+            9106,
+            9136,
+            9160,
+            9191,
+            9200,
+            9204,
+            9211,
+            9295,
+            9302,
+            9433,
+            9443,
+            9600,
+            9743,
+            9800,
+            9861,
+            9899,
+            9943,
+            9990,
+            9993,
+            10243,
+            10250,
+            11000,
+            11210,
+            11211,
+            11371,
+            12000,
+            13579,
+            14147,
+            16010,
+            16993,
+            19000,
+            19071,
+            21379,
+            23424,
+            25001,
+            27017,
+            32764,
+            44818,
+            51106,
+            51235,
+            55443,
+            61616
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MySQL",
+        "vendorName": "Telekom Srbija ADSL users",
+        "deviceName": ""
+    },
+    {
+        "ip": "76.32.235.14",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Charter Communications Inc",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "124.70.139.40",
+        "openTcpPorts": [
+            80,
+            443,
+            1883,
+            6000,
+            8012,
+            8035,
+            8083,
+            8084,
+            9036
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MySQL",
+        "vendorName": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "88.150.15.16",
+        "openTcpPorts": [
+            21,
+            22,
+            23,
+            25,
+            80,
+            443,
+            9200
+        ],
+        "openUdpPorts": [
+            1701,
+            3478
+        ],
+        "os": null,
+        "productName": "Elastichoney",
+        "vendorName": "MDCC Magdeburg-City-Com GmbH, Magdeburg",
+        "deviceName": [
+            "honeypot"
+        ]
+    },
+    {
+        "ip": "72.255.254.106",
+        "openTcpPorts": [
+            80,
+            443,
+            515
+        ],
+        "openUdpPorts": [
+            137,
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "PCCW IMS Ltd (PCCW Business Internet Access)",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "94.75.220.27",
+        "openTcpPorts": [
+            22
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "OpenSSH",
+        "vendorName": "LeaseWeb Netherlands B.V.",
+        "deviceName": ""
+    },
+    {
+        "ip": "152.26.172.68",
+        "openTcpPorts": [
+            593
+        ],
+        "openUdpPorts": [
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "MCNC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "223.62.60.230",
+        "openTcpPorts": [
+            8082,
+            8083,
+            8086
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "193.135.9.26",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            1883,
+            8080
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MQTT",
+        "vendorName": "IP-Projects GmbH & Co. KG",
+        "deviceName": ""
+    },
+    {
+        "ip": "123.57.101.223",
+        "openTcpPorts": [
+            80,
+            443,
+            8443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": ""
+    },
+    {
+        "ip": "92.204.133.191",
+        "openTcpPorts": [
+            21,
+            22,
+            25,
+            53,
+            80,
+            81,
+            110,
+            443,
+            444,
+            465,
+            993,
+            995,
+            1433,
+            3306,
+            5000,
+            5001,
+            5002,
+            5004,
+            5005,
+            5985,
+            8080,
+            8443,
+            8880,
+            49172,
+            49173,
+            53777
+        ],
+        "openUdpPorts": [
+            53,
+            1434,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Host Europe GmbH",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "70.35.192.188",
+        "openTcpPorts": [
+            80,
+            443,
+            8009,
+            8080,
+            8082,
+            8085,
+            8086,
+            8087,
+            8088,
+            8089,
+            8090,
+            8443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Fasthosts Internet Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "34.254.30.227",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "12.9.136.81",
+        "openTcpPorts": [
+            80
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "BigIP",
+        "vendorName": "AVNETCO TANGOE CONTENT MANAG",
+        "deviceName": ""
+    },
+    {
+        "ip": "119.9.27.146",
+        "openTcpPorts": [
+            135,
+            389,
+            593,
+            3268,
+            5985
+        ],
+        "openUdpPorts": [
+            88,
+            123,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Rackspace.com Sydney",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "202.169.33.235",
+        "openTcpPorts": [
+            22,
+            80,
+            111,
+            443,
+            1521,
+            3306,
+            5000,
+            7070,
+            7171,
+            9090,
+            9091,
+            9093,
+            9100
+        ],
+        "openUdpPorts": [
+            161,
+            5353
+        ],
+        "os": "Linux 3.10.0-514.el7.x86_64",
+        "productName": "Prometheus Node Exporter",
+        "vendorName": "Biznet Networks",
+        "deviceName": [
+            "eol-os"
+        ]
+    },
+    {
+        "ip": "59.32.171.94",
+        "openTcpPorts": [
+            5357
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET Guangdong province network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "83.56.101.170",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Telefonica de Espana SAU",
+        "deviceName": ""
+    },
+    {
+        "ip": "85.66.124.65",
+        "openTcpPorts": [
+            80,
+            443,
+            1723,
+            7777
+        ],
+        "openUdpPorts": [
+            1701
+        ],
+        "os": "MikroTik RouterOS 6.47.7",
+        "productName": "PPTP",
+        "vendorName": null,
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "52.17.107.217",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "83.228.123.124",
+        "openTcpPorts": [
+            9100
+        ],
+        "openUdpPorts": [
+            137,
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "PORT Burgas",
+        "deviceName": ""
+    },
+    {
+        "ip": "173.47.32.94",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            631,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "CABLE ONE, INC.",
+        "deviceName": ""
+    },
+    {
+        "ip": "220.77.254.136",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "202.67.10.165",
+        "openTcpPorts": [
+            21,
+            135,
+            5985,
+            9002
+        ],
+        "openUdpPorts": [
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Saga Company Jakarta",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "54.254.79.218",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            1883,
+            27017
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MongoDB",
+        "vendorName": "Amazon Data Services Japan",
+        "deviceName": [
+            "database",
+            "eol-product",
+            "cloud"
+        ]
+    },
+    {
+        "ip": "1.233.46.76",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "101.71.31.16",
+        "openTcpPorts": [
+            9092
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Kafka",
+        "vendorName": "UNICOM ZheJiang Province Network",
+        "deviceName": ""
+    },
+    {
+        "ip": "82.165.236.104",
+        "openTcpPorts": [
+            135,
+            139,
+            389,
+            445,
+            3268,
+            3389,
+            5985
+        ],
+        "openUdpPorts": [
+            53,
+            88,
+            123,
+            389,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "IONOS SE",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "81.95.108.68",
+        "openTcpPorts": [
+            22,
+            53
+        ],
+        "openUdpPorts": [
+            53
+        ],
+        "os": null,
+        "productName": "OpenSSH",
+        "vendorName": "ACTIVE 24 Virtual Private Servers",
+        "deviceName": ""
+    },
+    {
+        "ip": "46.117.122.153",
+        "openTcpPorts": [
+            53
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "013 Netvision Cable",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "86.22.92.106",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "BLACKBURN",
+        "deviceName": ""
+    },
+    {
+        "ip": "104.21.50.81",
+        "openTcpPorts": [
+            80,
+            443,
+            2052,
+            2053,
+            2082,
+            2086,
+            2087,
+            2096,
+            8080,
+            8443,
+            8880
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CloudFlare",
+        "vendorName": "Cloudflare, Inc.",
+        "deviceName": [
+            "cdn"
+        ]
+    },
+    {
+        "ip": "172.67.159.123",
+        "openTcpPorts": [
+            80,
+            443,
+            2052,
+            2082,
+            2083,
+            2087,
+            2096,
+            8080,
+            8443,
+            8880
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CloudFlare",
+        "vendorName": "Cloudflare, Inc.",
+        "deviceName": [
+            "cdn"
+        ]
+    },
+    {
+        "ip": "81.95.108.252",
+        "openTcpPorts": [
+            22,
+            53,
+            587
+        ],
+        "openUdpPorts": [
+            53
+        ],
+        "os": null,
+        "productName": "Postfix smtpd",
+        "vendorName": "ACTIVE 24 Virtual Private Servers",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "115.22.37.12",
+        "openTcpPorts": [
+            80,
+            81,
+            83,
+            84,
+            86,
+            89,
+            92,
+            96,
+            97,
+            102,
+            104,
+            106,
+            111,
+            113,
+            131,
+            175,
+            195,
+            221,
+            222,
+            225,
+            264,
+            311,
+            427,
+            443,
+            444,
+            465,
+            491,
+            7547
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "207.66.32.38",
+        "openTcpPorts": [
+            5000,
+            7000,
+            62078
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Orange Espagne SA",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "59.125.174.250",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            631,
+            9100
+        ],
+        "openUdpPorts": [
+            137,
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Chunghwa Telecom Co.,Ltd.",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "106.40.138.65",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET HUNAN PROVINCE NETWORK",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "5.35.251.48",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            123
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Host Europe GmbH",
+        "deviceName": ""
+    },
+    {
+        "ip": "62.117.91.149",
+        "openTcpPorts": [
+            53,
+            443
+        ],
+        "openUdpPorts": [
+            53,
+            389,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "JSC Comcor",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "212.152.201.154",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Tele2 Telecommunications GmbH",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "202.169.33.235",
+        "openTcpPorts": [
+            22,
+            80,
+            111,
+            443,
+            1521,
+            3306,
+            5000,
+            7070,
+            7171,
+            9090,
+            9091,
+            9093,
+            9100
+        ],
+        "openUdpPorts": [
+            161,
+            5353
+        ],
+        "os": "Linux 3.10.0-514.el7.x86_64",
+        "productName": "Prometheus Node Exporter",
+        "vendorName": "Biznet Networks",
+        "deviceName": [
+            "eol-os"
+        ]
+    },
+    {
+        "ip": "121.163.67.240",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "85.185.67.253",
+        "openTcpPorts": [
+            53,
+            3389,
+            5357,
+            5985
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "shahrood university of technology",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "2600:9000:201a:3200:8:2157:4c40:93a1",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CloudFront httpd",
+        "vendorName": "Amazon.com, Inc.",
+        "deviceName": [
+            "cloud",
+            "cdn"
+        ]
+    },
+    {
+        "ip": "78.185.79.174",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Turk Telekomunikasyon Anonim Sirketi",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "91.90.209.196",
+        "openTcpPorts": [
+            3389
+        ],
+        "openUdpPorts": [],
+        "os": "Windows (Build 10.0.17763)",
+        "productName": "Remote Desktop Protocol",
+        "vendorName": "OOO SCIENTIFIC RESEARCH CENTER Bulat",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "185.55.196.57",
+        "openTcpPorts": [
+            443,
+            1723
+        ],
+        "openUdpPorts": [
+            1701
+        ],
+        "os": null,
+        "productName": "PPTP",
+        "vendorName": "inpadi ApS",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "68.134.137.158",
+        "openTcpPorts": [
+            80,
+            85,
+            554,
+            631,
+            37777
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "Q-See DVR",
+        "vendorName": "Verizon Business",
+        "deviceName": ""
+    },
+    {
+        "ip": "198.46.134.132",
+        "openTcpPorts": [
+            53,
+            80,
+            139,
+            443,
+            445,
+            1433,
+            3389,
+            4000,
+            5985
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Foroquimica SL",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "5.152.212.226",
+        "openTcpPorts": [
+            21,
+            25,
+            80,
+            110,
+            135,
+            139,
+            143,
+            445,
+            3306,
+            5985,
+            8443,
+            8880,
+            9095
+        ],
+        "openUdpPorts": [
+            53,
+            137,
+            1434,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Redstation Limited",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "223.62.63.29",
+        "openTcpPorts": [
+            8083,
+            8084
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "211.226.14.47",
+        "openTcpPorts": [
+            53
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "61.178.52.97",
+        "openTcpPorts": [
+            7443,
+            8443
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Gansu,Lanzhou matan broad band dail pool",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "74.208.8.41",
+        "openTcpPorts": [
+            25,
+            53,
+            80,
+            135,
+            139,
+            465,
+            995,
+            3389,
+            8443,
+            8880
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "IONOS Inc.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "120.79.236.231",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            3001,
+            3100,
+            3101,
+            3200,
+            4000,
+            8200
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "39.77.124.27",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "China Unicom Shandong province network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "194.233.71.235",
+        "openTcpPorts": [
+            21,
+            53,
+            80,
+            81,
+            83,
+            110,
+            135,
+            139,
+            389,
+            443,
+            445,
+            465,
+            593,
+            636,
+            995,
+            1433,
+            1801,
+            3050,
+            3269,
+            3388,
+            3389,
+            5985
+        ],
+        "openUdpPorts": [
+            53,
+            88,
+            389,
+            1194,
+            4500,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Contabo Asia Private Limited",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "203.147.41.138",
+        "openTcpPorts": [
+            135,
+            445,
+            3389,
+            5985
+        ],
+        "openUdpPorts": [
+            137
+        ],
+        "os": "Windows (Build 6.3.9600)",
+        "productName": "WinRM",
+        "vendorName": "Bangkok",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "54.171.229.230",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "AWS ELB",
+        "vendorName": "Amazon Technologies Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "120.41.148.172",
+        "openTcpPorts": [
+            22,
+            53,
+            3389,
+            8081,
+            8881
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET FUJIAN PROVINCE NETWORK",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "111.176.172.108",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET HUBEI PROVINCE NETWORK",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "64.20.38.234",
+        "openTcpPorts": [
+            21,
+            80,
+            110,
+            135,
+            445,
+            465,
+            587,
+            993,
+            995,
+            1433,
+            1801,
+            3306,
+            8443,
+            8880
+        ],
+        "openUdpPorts": [
+            53,
+            1434,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Interserver, Inc",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "119.203.252.6",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "218.13.87.147",
+        "openTcpPorts": [
+            100,
+            7443,
+            9000
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "CHINANET Guangdong province network",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "177.23.16.20",
+        "openTcpPorts": [
+            21,
+            53,
+            110,
+            143,
+            587,
+            3333
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "RAPIX INTERNET",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "218.95.37.88",
+        "openTcpPorts": [
+            22,
+            111,
+            2181,
+            3306,
+            5003,
+            9000,
+            9001,
+            9092,
+            27017
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MongoDB",
+        "vendorName": "CHINANET jiangxi province network",
+        "deviceName": [
+            "database",
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "203.189.123.200",
+        "openTcpPorts": [
+            22,
+            25,
+            80,
+            110,
+            143,
+            443,
+            5900,
+            33060
+        ],
+        "openUdpPorts": [
+            88,
+            137
+        ],
+        "os": null,
+        "productName": "MySQL X Protocol",
+        "vendorName": "Universitas Kristen Petra",
+        "deviceName": ""
+    },
+    {
+        "ip": "47.107.108.100",
+        "openTcpPorts": [
+            22,
+            8500,
+            9100
+        ],
+        "openUdpPorts": [],
+        "os": "Rocky Linux 8.5 (Green Obsidian) (Linux 4.18.0-348.20.1.el8_5.x86_64)",
+        "productName": "Prometheus Node Exporter",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "eol-os"
+        ]
+    },
+    {
+        "ip": "171.6.94.183",
+        "openTcpPorts": [
+            88
+        ],
+        "openUdpPorts": [],
+        "os": "MikroTik RouterOS 6.49",
+        "productName": "",
+        "vendorName": "Triple T Broadband Public Company Limited",
+        "deviceName": ""
+    },
+    {
+        "ip": "119.206.47.92",
+        "openTcpPorts": [
+            53
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "121.168.241.89",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "34.251.30.242",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "AWS ELB",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "107.155.109.154",
+        "openTcpPorts": [
+            22,
+            8000
+        ],
+        "openUdpPorts": [
+            123
+        ],
+        "os": null,
+        "productName": "OpenSSH",
+        "vendorName": "HIVELOCITY, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "47.96.2.97",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            3306,
+            5672,
+            7000,
+            9000,
+            9001,
+            9800,
+            10000
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "RabbitMQ",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "207.180.203.82",
+        "openTcpPorts": [
+            21,
+            22,
+            25,
+            53,
+            80,
+            110,
+            135,
+            143,
+            443,
+            445,
+            587,
+            593,
+            993,
+            995,
+            3000,
+            3306,
+            3388,
+            3389,
+            5985,
+            33060
+        ],
+        "openUdpPorts": [
+            53,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Contabo GmbH",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "106.14.172.128",
+        "openTcpPorts": [
+            80,
+            8080
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": ""
+    },
+    {
+        "ip": "59.120.241.162",
+        "openTcpPorts": [
+            21,
+            80,
+            1883,
+            8002
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Mosquitto",
+        "vendorName": "Data Communication Business Group,",
+        "deviceName": ""
+    },
+    {
+        "ip": "80.85.154.230",
+        "openTcpPorts": [
+            22
+        ],
+        "openUdpPorts": [],
+        "os": "Ubuntu",
+        "productName": "OpenSSH",
+        "vendorName": "PDK LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "47.97.217.237",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            888,
+            8888
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "starttls",
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "3.106.89.111",
+        "openTcpPorts": [
+            53,
+            135,
+            139,
+            389,
+            445,
+            593,
+            3268,
+            3389,
+            5985
+        ],
+        "openUdpPorts": [
+            53,
+            88,
+            123,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Amazon Corporate Services Pty Ltd",
+        "deviceName": [
+            "iot",
+            "cloud"
+        ]
+    },
+    {
+        "ip": "187.191.92.252",
+        "openTcpPorts": [
+            8443
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Triara.com S.A. de C.V.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "185.5.100.153",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Levigo Systems GmbH",
+        "deviceName": ""
+    },
+    {
+        "ip": "213.114.72.164",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Telenor Sverige AB",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "42.29.8.147",
+        "openTcpPorts": [
+            80,
+            8081,
+            8083,
+            8087,
+            8088
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "178.251.95.89",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "levigo systems gmbh",
+        "deviceName": ""
+    },
+    {
+        "ip": "145.222.34.216",
+        "openTcpPorts": [
+            264
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Check Point Firewall",
+        "vendorName": "KPN B.V.",
+        "deviceName": ""
+    },
+    {
+        "ip": "60.248.33.138",
+        "openTcpPorts": [
+            25,
+            53,
+            80,
+            110,
+            135,
+            443,
+            444,
+            465,
+            587,
+            995,
+            3000,
+            3306,
+            3389,
+            5985,
+            7443
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Chunghwa Telecom Co.,Ltd.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "180.66.245.23",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "195.69.208.123",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Comarch S.A.",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "198.55.230.68",
+        "openTcpPorts": [
+            80,
+            443,
+            8080,
+            8081,
+            8082,
+            8083,
+            8086
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "ABC Allen Business Communications Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "50.219.106.81",
+        "openTcpPorts": [
+            22
+        ],
+        "openUdpPorts": [
+            19,
+            88,
+            3784,
+            4500,
+            5353,
+            30303,
+            30311,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "221.206.254.97",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "China Unicom Heilongjiang Province Network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "3.1.225.141",
+        "openTcpPorts": [
+            80,
+            443,
+            1883,
+            5050,
+            8000,
+            8001,
+            8080,
+            8090
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Mosquitto",
+        "vendorName": "Amazon Data Services Singapore",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "137.117.160.195",
+        "openTcpPorts": [
+            21,
+            80,
+            83,
+            1433,
+            1883,
+            3306,
+            3389,
+            8080
+        ],
+        "openUdpPorts": [],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "Microsoft Corp",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "58.8.139.246",
+        "openTcpPorts": [
+            2000,
+            8291,
+            9999
+        ],
+        "openUdpPorts": [],
+        "os": "MikroTik RouterOS 6.49.7",
+        "productName": "MikroTik Winbox",
+        "vendorName": "True internet Co., Ltd.",
+        "deviceName": ""
+    },
+    {
+        "ip": "208.114.72.172",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            9100
+        ],
+        "openUdpPorts": [
+            137,
+            161
+        ],
+        "os": null,
+        "productName": "Xerox VersaLink C7020",
+        "vendorName": "Vyve Broadband",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "115.148.195.246",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET JIANGXI PROVINCE NETWORK",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "163.13.223.21",
+        "openTcpPorts": [
+            80
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Ministry of Education Computer Center",
+        "deviceName": ""
+    },
+    {
+        "ip": "115.231.100.186",
+        "openTcpPorts": [
+            80
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Squid http proxy",
+        "vendorName": "CHINANET-ZJ Hangzhou node network",
+        "deviceName": ""
+    },
+    {
+        "ip": "20.232.4.222",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Microsoft Corporation",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "5.151.5.100",
+        "openTcpPorts": [
+            80,
+            443,
+            8080
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Glide Student & Residential Limited",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "27.160.8.181",
+        "openTcpPorts": [
+            80,
+            8081,
+            8083,
+            8086,
+            8087
+        ],
+        "openUdpPorts": [
+            53
+        ],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "140.179.163.30",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Beijing Sinnet Technology Co., Ltd.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "35.167.75.215",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": "Ubuntu",
+        "productName": "nginx",
+        "vendorName": "Amazon.com, Inc.",
+        "deviceName": [
+            "cloud",
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "14.157.14.127",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "CHINANET Guangdong province network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "60.188.226.120",
+        "openTcpPorts": [
+            8081
+        ],
+        "openUdpPorts": [],
+        "os": "Windows",
+        "productName": "Microsoft IIS httpd",
+        "vendorName": "CHINANET-ZJ Taizhou node network",
+        "deviceName": ""
+    },
+    {
+        "ip": "50.221.67.84",
+        "openTcpPorts": [
+            22,
+            9002
+        ],
+        "openUdpPorts": [
+            7,
+            19,
+            69,
+            80,
+            129,
+            500,
+            3283,
+            3391,
+            3784,
+            4500,
+            5353,
+            30303,
+            30311,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "158.140.243.33",
+        "openTcpPorts": [
+            21,
+            5001,
+            5985
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "National Pure MyRepublic NZ",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "89.123.237.53",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "",
+        "vendorName": "Orange Romania Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "123.57.147.12",
+        "openTcpPorts": [
+            80,
+            443,
+            8072,
+            8081,
+            8083,
+            8085,
+            8086,
+            8087,
+            8088
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": ""
+    },
+    {
+        "ip": "103.204.131.171",
+        "openTcpPorts": [
+            21,
+            25,
+            53,
+            80,
+            443,
+            465,
+            587,
+            2002,
+            3000,
+            3001,
+            3306,
+            8081,
+            27017,
+            33060
+        ],
+        "openUdpPorts": [
+            53
+        ],
+        "os": null,
+        "productName": "MySQL X Protocol",
+        "vendorName": "A2 Hosting, Inc.",
+        "deviceName": [
+            "database",
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "182.234.127.43",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Hoshin MultiMedia Center Inc.",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "180.97.68.16",
+        "openTcpPorts": [
+            88,
+            554,
+            8099
+        ],
+        "openUdpPorts": [
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Chinanet Jiangsu Province Network",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "50.217.226.45",
+        "openTcpPorts": [
+            111,
+            9002
+        ],
+        "openUdpPorts": [
+            7,
+            69,
+            80,
+            88,
+            129,
+            500,
+            3283,
+            3391,
+            3784,
+            4500,
+            6969,
+            32100,
+            53413,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "123.60.98.54",
+        "openTcpPorts": [
+            80,
+            443,
+            7000,
+            7001,
+            7003,
+            7004,
+            7005,
+            8005,
+            8006,
+            8018,
+            8081,
+            8082,
+            8102,
+            8181
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Redis key-value store",
+        "vendorName": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+        "deviceName": [
+            "eol-product",
+            "eol-os"
+        ]
+    },
+    {
+        "ip": "34.252.4.165",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "52.194.233.244",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Amazon Data Services Japan",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "187.39.107.236",
+        "openTcpPorts": [
+            53,
+            3050,
+            4899,
+            5900,
+            5985,
+            8083
+        ],
+        "openUdpPorts": [
+            53,
+            54321
+        ],
+        "os": null,
+        "productName": "Xiaomi IoT",
+        "vendorName": "Claro NXT Telecomunicacoes Ltda",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "223.62.36.168",
+        "openTcpPorts": [
+            80,
+            8081,
+            8087
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "220.160.105.202",
+        "openTcpPorts": [
+            443,
+            1883,
+            8060,
+            8081,
+            8083,
+            8443,
+            9443,
+            10001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Economy Special Area Real Estate",
+        "deviceName": [
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "52.17.253.218",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "AWS ELB",
+        "vendorName": "Amazon Data Services Ireland Limited",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "185.5.103.184",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "levigo systems gmbh",
+        "deviceName": ""
+    },
+    {
+        "ip": "54.207.109.76",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Data Services Brazil",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "123.57.237.69",
+        "openTcpPorts": [
+            80,
+            443,
+            1883,
+            3306,
+            5672,
+            8080,
+            8083,
+            9000,
+            9001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Aliyun Computing Co., LTD",
+        "deviceName": [
+            "eol-product"
+        ]
+    }
 ]
+
